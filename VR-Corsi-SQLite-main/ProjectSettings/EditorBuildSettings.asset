@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu Scene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/StarGame Scene.unity
+    guid: 4834ddd6f2aae2a41b2d0fd4f6a0b5a8
+  - enabled: 1
+    path: Assets/Scenes/CreateUser Scene.unity
+    guid: 99023b43d327cb644935b4fa8790b226
+  - enabled: 1
+    path: Assets/Scenes/KidRoom_Boy.unity
+    guid: 8b5552c3a23715a41a7ef58b2dc347c2
+  - enabled: 1
+    path: Assets/Scenes/KidRoom_Girl.unity
+    guid: 2914c06397dfb0d40b731f7d0f655120
+  - enabled: 1
+    path: Assets/Scenes/ModifiyUser Scene.unity
+    guid: bbf59211b26c7904385400e4c5472d9f
+  - enabled: 1
+    path: Assets/Scenes/KidRoom_Boy_Color.unity
+    guid: 4d71e578ff807b347a226b9bfde94d26
+  - enabled: 1
+    path: Assets/Scenes/KidRoom_Girl_Color.unity
+    guid: 4fca669e4e62f4a4ab69b0688195908c
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8c88acc9c9b44fd4d8cb0b8d6349aeb7,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f9857bc79cb05954ca1639a580054a7d,
+      type: 2}
